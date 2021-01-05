@@ -6,7 +6,7 @@
     "name": "Dmitriy Medychenko",
     "email": "rAv3ndima91@gmail.com"
   },
-  "homepage": "https://mnstrdima.github.io/goit-react-hw-01-components",
+  "homepage": "https://mnstrdima.github.io/goit-react-hw-02-feedback/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
